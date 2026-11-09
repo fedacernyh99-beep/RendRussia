@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "REND",
+    "firstName": "REND",
+    "secondName": "REND",
+    "ip": "178.130.53.108",
+    "port": "1573",
+    "online": "15",
+    "maxonline": "1000",
+    "color": "#FF0000",
+    "key": "red",
+    "x2": true
+  }
+]
